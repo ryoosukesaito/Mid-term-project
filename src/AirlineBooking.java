@@ -79,7 +79,7 @@ public class AirlineBooking {
 					rowInput = true;
           
 				} else {
-          System.out.println("Hey! Enter a number between 1 and 7 !!");
+          System.out.println("Hey! Enter a number between 1 and 9 !!");
           
 				}
 			}
